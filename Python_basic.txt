@@ -1,0 +1,43 @@
+Python - Basic Syntax
+To start, Python can be run on the command line.
+A Python file can have the extensions .py, .ipynb and .pyc. Majorly, we would be dealing with .py files. 
+
+Indentation in Python
+An important point to always remember when using Python is that indentation is very important. Indentation, in simple words, is the space that is present before every line of your Python code. 
+In Python, every line must be properly indented. 
+If you are a Java programmer, an easy analogy would be to consider indentation as curly brackets (‘{}‘). Almost every time you open a ‘{‘, you’ll have to indent the next lines of code and almost every time you close a ‘}’, you’ll have to dedent the following lines. 
+It looks much simpler with an example:
+
+Correct:
+
+
+	if5 > 2:
+	print("Five is greater than two!")
+Output:
+
+Five is greater than two!
+
+Wrong:
+
+
+	if5 > 2:
+	print("Five is greater than two!")
+Output:
+
+IndentationError: expected an indented block
+
+The number of spaces used is up to the programmer but it must remain constant throughout the block of code. The most common number of spaces used are 2 spaces and one tab space.
+
+Correct:
+
+
+	if5 > 2:
+	print("Five is greater than two!")
+	if5 > 2:
+	print("Five is greater than two!")
+Wrong:
+
+
+	if5 > 2:
+	print("Five is greater than two!")
+	print("Five is greater than two!")
