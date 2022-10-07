@@ -1,0 +1,16 @@
+Python Installation and Setup:
+To have Python on your computer, it is sufficient to install the dmg or exe file from the Python official site, but to actually use it, you will need an IDE. In this Python tutorial, we use an IDE called PyCharm consistently. You could set that up for yourself as well, or use any other IDEs available like IDLE, Jupyter Notebook, or Visual Studio. 
+
+Python Notes: IDLE is installed by default while installing Python. 
+For Windows users:
+
+Installing Python:
+Head over to the official Python webpage at https://www.python.org. 
+Click on the Downloads tab
+This should lead to another page . 
+Scroll down to find the list of downloadable files.
+We will need to download an executable file, which contains the extension .exe;
+So, click on the link which reads ‘executable installer’.
+Then, an exe file would start downloading.Open it up and the file would open something like the picture shown below.
+Click on Install Now and the installation would start.
+The installation is done.
