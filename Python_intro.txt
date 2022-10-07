@@ -1,0 +1,8 @@
+Python is a high-level programming language built-in with multiple features. It is well known for its simplicity and easy to understand semantics.Programmers prefer Python because of their increased productivity. It does not have a compilation step and debugging can be done quickly in Python. Segmentation faults almost never occur in Python. Instead, when a bug is present, the interpreter raises an exception. When an exception is not found, a stack trace is printed.
+Significance of using python language :
+1.It’s versatile. Python can be used in almost any kind of environment and will barely face a performance issue. Python is used in mobile applications, desktop applications, hardware programming, and so on.
+2.It is incredibly easy to learn and use. Any person with basic English knowledge can learn Python with no hassle. There are a huge number of online courses and tutorials (including this one) that’ll teach you Python. The learning is endless.
+3.It has a well-populated and supportive community. Any queries you might have on Python, look it up and you’ll find plenty of answers in no time. Python was launched three decades ago and that has given the world of programmers enough time to build a strong community.
+4.It has a lot of libraries, especially for Data Science. A few of them are keras, matplotlib, seaborn, NumPy.
+5.One of the two majorly used languages for Data Science (the other being R). 
+
